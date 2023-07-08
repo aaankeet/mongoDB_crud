@@ -1,0 +1,53 @@
+2023-07-06	08:29:46	686b284c-93a2-4c1e-a92f-0b196cf43e61	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:29:52	b638e3f7-2a74-4d2a-9ebd-4a692ed854d8	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:02	85205dda-9ebc-4a38-ae0c-4d63f374ed32	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:02	f3de5cd4-773d-475d-b413-2c2566bff992	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:14	b23c3a34-6574-4bf7-a78f-d43cd76b79d6	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:15	2ba9accd-f50e-4104-8a16-11f27daca2a1	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:19	21043771-00ae-456a-9a20-c68e84b79d16	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:19	6d080b95-2140-47f1-a237-bc1ec92df364	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:20	3179c86e-2597-40e7-9596-b03e6dc010bc	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:30:25	ef4a0028-ede9-4b42-8297-e097196d77cb	ReferenceError	id is not defined	GET	/employees/1	undefined
+2023-07-06	08:35:06	6df92b2d-342b-4d93-83c7-2b6b47595c91	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:35:54	3c3293eb-4e36-4cd8-a070-4afc25399fae	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:35:54	244dbd1f-1063-47b8-a804-c49415de10c1	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:35:55	db3029d2-bb66-49ca-9d79-215a610b2f81	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:35:55	cea43419-cf80-4c01-8c8c-415f0bcf9c8b	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:46:21	9562ad8b-2ec7-4aab-af89-f956b13c0c41	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:46:27	5e13e248-cf88-43d6-b3fd-6393ab9e410d	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees/	undefined
+2023-07-06	08:46:36	02b5025a-b4f8-496d-991f-fc69f2dd32e6	ReferenceError	Cannot access 'employee' before initialization	DELETE	/employees	undefined
+2023-07-07	00:06:57	f93ebe2d-fe76-4a32-8b98-ec3d8232f519	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees/	undefined
+2023-07-07	00:07:21	929dded6-2b25-4218-93e1-031b1ea1de7a	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:07:39	4701e0e7-ee77-4e8d-af28-fc0ae784bdc1	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:07:45	3b4f1b8e-3b92-49b2-b457-ae384983be8b	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:09:12	969b0144-f51b-461a-9d7a-7b7cc18a5d7d	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:09:13	f4fa42ba-7cf9-4598-96a1-57870a73176b	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:09:23	5438134f-2c1f-4ecd-8399-714152d34f96	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:09:37	1cfd4a7f-f224-4182-a855-bc248bc949c1	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:10:45	ee7ebf57-4632-44e4-b6bc-e8fd66a8b178	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:10:58	8e938fe7-a995-4c3b-a0fc-ab57bfb4abe0	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:11:19	8fc4f0b3-ed8d-4ad9-91b1-cd86719998fc	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:12:37	3915b5c3-91d6-4c1f-ba26-17345e5a3f88	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:12:44	7f0108d0-1adc-41a3-8f57-53a2e38d7531	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:14:23	082dd3c7-af29-4799-a138-19f22a3ec30f	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:14:24	e00cb821-77ed-41eb-b4d1-10b90be909fd	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:14:41	852039e0-f1cc-40e8-84ec-39cb4eb79cff	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	00:18:06	2a108c9c-2c85-4d78-9df9-1b1a98f93219	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees/	undefined
+2023-07-07	00:18:25	d00269b8-9dc0-4c8e-80e5-034bfe764c7b	SyntaxError	Unexpected token e in JSON at position 0	GET	/employees	undefined
+2023-07-07	02:27:18	1fc7f00b-f6ba-4e39-8c2e-eb82af023cab	ReferenceError	username is not defined	GET	/refresh	undefined
+2023-07-07	02:27:26	fe938339-c277-488f-8b6a-6a21191d2ec0	ReferenceError	username is not defined	GET	/refresh	undefined
+2023-07-07	02:27:42	1f5e346c-3823-447b-bc6a-c78a5b0a6f51	ReferenceError	username is not defined	GET	/refresh	undefined
+2023-07-07	02:28:38	eafd0ffc-f5e0-4379-a9be-6cc56bf8f6a5	TypeError	res.sendStatue is not a function	GET	/refresh	undefined
+2023-07-07	03:51:30	265918d8-fb15-41c6-a3d7-a4ecce42349e	SyntaxError	Unexpected token e in JSON at position 0	GET	/refresh	undefined
+2023-07-07	03:51:30	67a9d42d-60b1-4682-b717-8377a69501c9	SyntaxError	Unexpected token e in JSON at position 0	GET	/refresh	undefined
+2023-07-07	03:51:30	48d5a7f6-d8c3-47bc-8d52-6753a18be960	SyntaxError	Unexpected token e in JSON at position 0	GET	/refresh	undefined
+2023-07-07	03:51:30	dba4efef-99ab-474c-87ff-07120d34fdfa	SyntaxError	Unexpected token e in JSON at position 0	GET	/refresh	undefined
+2023-07-07	03:57:22	9d3ac40c-7a95-4ab6-9d90-ecd0fa67b5c5	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:57:38	d266af1b-234b-4460-a7d6-60d9861d143e	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:58:04	c0724a73-c65a-4a10-93f5-da47cc51254e	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:58:26	bd7daa19-02e4-4378-be2e-318baacc3e7d	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:59:04	5b9d66f9-9be8-4107-81be-4069cb1136be	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:59:05	d66beeed-aaed-453c-b12a-47c3b74ee157	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:59:08	bd5d345b-1a6d-435e-b37f-50a5afd5d918	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	03:59:12	db7a0076-a627-4871-bc6f-ed49b2b3a6fa	Error	Cannot set headers after they are sent to the client	GET	/refresh	undefined
+2023-07-07	04:39:44	11ef5dc8-63af-4c99-8d9a-5be41f2e010e	Error	secretOrPrivateKey must have a value	GET	/refresh	undefined

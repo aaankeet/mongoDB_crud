@@ -1,0 +1,20 @@
+[
+	{
+		"username": "Suzi",
+		"password": "$2b$10$ewn80zaO8ZC/UJ9fMFZN.ulE3p431hQx4BuX7OCJjJQEBG8DVybty",
+		"roles": {
+			"User": 2001,
+			"Editor": 1984,
+			"Admin": 5150
+		}
+	},
+	{
+		"username": "aaankeet",
+		"password": "$2b$10$YV8IDpD5R7klSVKb8P7tAunaQM7mu5T.NXuFjK5HeXn9q5nxFyaSy",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODg2ODUxNjYsImV4cCI6MTY4ODc3MTU2Nn0.5x8KmEKGuj9vCiBTTlV-lppqmt6nIzE-DmV5obqjTbU",
+		"Roles": {
+			"User": 2001,
+			"Editor": 1984
+		}
+	}
+]
